@@ -247,7 +247,7 @@ In `/home/arma3server/lgsm/config-lgsm/arma3server/common.cfg`
 
 I have added this line
 
-`startparameters="-ip=${ip} -port=${port} -cfg=${networkcfgfullpath} -config=${servercfgfullpath} -mod=${mods} -servermod=${servermods} -bepath=${bepath} -loadmissiontomemory -cpuCount=4 -enableHT"``
+`startparameters="-ip=${ip} -port=${port} -cfg=${networkcfgfullpath} -config=${servercfgfullpath} -mod=${mods} -servermod=${servermods} -bepath=${bepath} -loadmissiontomemory -cpuCount=4 -enableHT"`
 
 `cpuCount` is at `4` because my CPU on my server has 4 physical cores 
 
