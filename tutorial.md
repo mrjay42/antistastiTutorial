@@ -285,7 +285,7 @@ Connect to your server using Arma 3's launcher
 
 Once you're logged on your server, you'll want to connect as an admin to do that, type in the in game text chat: `#login somePassword`
 
-Remember `somePassword``? we defined it way earlier in the tutorial -> well you use it now!
+Remember `somePassword`? we defined it way earlier in the tutorial -> well you use it now!
 
 A GUI should be displayed in game letting you create and set parameters for your game.
 
